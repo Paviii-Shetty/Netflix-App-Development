@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 1, 0.7), rgba(0, 0, 5, 0.7)), url(bb3.jpg);
+    background-size: cover;
+}
+
+.video {
+    padding-bottom: 5rem;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+p {
+    font-size: 25px;
+}
+
+.head-right {
+    padding-left: 79rem;
+    margin-top: -1rem;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10rem;
+    color: white;
+}
+
+.body {
+    background-color: black;
+    padding: none;
+    margin-top: 5rem;
+    border-top: 5px solid grey;
+    border-bottom: 5px solid grey;
+    display: flex;
+    justify-content: space-around;
+}

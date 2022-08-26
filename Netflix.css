@@ -1,0 +1,66 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 1, 0.7), rgba(0, 0, 5, 0.7)), url(bb3.jpg);
+    background-size: cover;
+}
+
+.content {
+    color: white;
+    text-align: center;
+    margin-top: 9rem;
+    font-weight: bolder;
+}
+
+.content p {
+    padding-top: 5px;
+}
+
+.logo img {
+    width: 150px;
+    height: 40px;
+    background-image: linear-gradient(rgba(0, 0, 1, 0.7), rgba(0, 0, 5, 0.7));
+}
+
+.navbar {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#type1 {
+    height: 3.8rem;
+    width: 30rem;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#button3 {
+    color: white;
+    background-color: red;
+    border: none;
+    height: 3.8rem;
+    width: 13rem;
+    padding-left: 20px;
+    margin-left: -3px;
+}
+
+#button1 {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+#button2 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-left: 25px;
+    border: none;
+}
